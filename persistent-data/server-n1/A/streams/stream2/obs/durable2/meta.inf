@@ -1,0 +1,1 @@
+{"Created":"2022-08-19T07:35:50.745584884Z","Name":"durable2","durable_name":"durable2","deliver_policy":"new","ack_policy":"explicit","ack_wait":5000000000,"max_deliver":3,"filter_subject":"subject2","replay_policy":"instant","max_ack_pending":1000,"deliver_subject":"deliver2","deliver_group":"queue2","num_replicas":0}
